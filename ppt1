@@ -5,7 +5,7 @@ Second commit
 
 gIT COMMIT FROM BRANC
 
-
+git commit from branch 2
 ========================
 
 $ git config --global user.name"santhosh"
